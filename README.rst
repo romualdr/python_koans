@@ -18,7 +18,7 @@ One click installation:
     :target: https://workspaces.openshift.com/f?url=https://gitpod.io/#https://github.com/gregmalcolm/python_koans
 |   or
 .. image:: https://gitpod.io/button/open-in-gitpod.svg
-    :target: https://gitpod.io/#https://gitpod.io/#https://github.com/gregmalcolm/python_koans
+    :target: https://gitpod.io/#https://github.com/gregmalcolm/python_koans
 
 |
 
